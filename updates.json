@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "library-tracker-tool@georgebrown.ca": {
+      "updates": [
+        {
+          "version": "1.3",
+          "update_link": "https://github.com/Gurkirat-s/library-tracker/raw/refs/heads/main/library-tracker-tool-latest.xpi"
+        }
+      ]
+    }
+  }
+}
