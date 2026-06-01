@@ -1,6 +1,6 @@
 {
   "addons": {
-    "logit-tracker@georgebrown.ca": {
+    "logit@georgebrown.ca" {
       "updates": [
         {
           "version": "1.0.3",
